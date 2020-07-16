@@ -1493,6 +1493,10 @@ body.dark .triangle-top:before {
 body.dark .timeline.exp .timeline-container::after, body.dark .timeline.edu .timeline-container::after {
   background: #302f4e;
 }
+
+body.dark .timeline.license .timeline-container::after, body.dark .timeline.license .timeline-container::after {
+  background: #302f4e;
+}
 body.dark .portfolio-filter li {
   color: #FFF;
 }
@@ -1788,6 +1792,17 @@ body.dark footer.footer {
   background-color: inherit;
   width: 100%;
 }
+
+.timeline.license{
+  width: 124%;
+}
+.timeline.license .timeline-container {
+  padding-left: 50px;
+  margin-bottom: 50px;
+  position: relative;
+  background-color: inherit;
+  width: 80%;
+}
 .timeline .timeline-container:last-of-type {
   margin-bottom: 0;
 }
@@ -1802,6 +1817,20 @@ body.dark footer.footer {
   left: -7px;
   top: 0;
   z-index: 1;
+
+}
+
+.timeline.license .timeline-container::after {
+  content: "📜";
+  background: #FFF;
+  font-family: "simple-line-icons";
+  font-size: 24px;
+  color: #FF4C60;
+  position: absolute;
+  left: -7px;
+  top: 0;
+  z-index: 1;
+
 }
 
 .timeline.exp .timeline-container::after {
