@@ -774,6 +774,8 @@ header.mobile-header-2 .site-logo img {
 /*=================================================================*/
 /*                      SECTIONS                             
 /*=================================================================*/
+
+
 main.content {
   margin-left: 290px;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1827,6 +1829,12 @@ body.dark footer.footer {
   font-size: 20px;
   margin: 10px 0;
 }
+.timeline .content h4{
+  color: #8B88B1;
+  font-style: bold;
+  font-size: 15px;
+  margin: 10px 0;
+}
 
 .timeline .content p {
   margin: 0;
@@ -2446,6 +2454,12 @@ body {
   height: 250px;
   border-radius: 125px;
 }
+
+.profile_about{
+  
+  border-radius: 50px;
+}
+
 
 .profile-bot {
   width: 150px;
