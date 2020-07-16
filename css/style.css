@@ -1812,7 +1812,7 @@ body.dark footer.footer {
   background: #FFF;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #A566FF;
   position: absolute;
   left: -7px;
   top: 0;
@@ -1821,11 +1821,11 @@ body.dark footer.footer {
 }
 
 .timeline.license .timeline-container::after {
-  content: "📜";
+  content: "✎";
   background: #FFF;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #FFBB00;
   position: absolute;
   left: -7px;
   top: 0;
@@ -1838,7 +1838,7 @@ body.dark footer.footer {
   background: #FFF;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #3DB7CC;
   position: absolute;
   left: -7px;
   top: 0;
@@ -1872,7 +1872,7 @@ body.dark footer.footer {
 .timeline span.line {
   position: absolute;
   width: 1px;
-  background-color: #FF4C60;
+  background-color: #f5b1b9;
   top: 30px;
   bottom: 30px;
   left: 34px;
