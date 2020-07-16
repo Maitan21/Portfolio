@@ -1808,10 +1808,10 @@ body.dark footer.footer {
 }
 
 .timeline.edu .timeline-container::after {
-  content: "";
+  content: "🎓";
   background: #FFF;
   font-family: "simple-line-icons";
-  font-size: 24px;
+  font-size: 28px;
   color: #A566FF;
   position: absolute;
   left: -7px;
@@ -1821,10 +1821,10 @@ body.dark footer.footer {
 }
 
 .timeline.license .timeline-container::after {
-  content: "✎";
+  content: "📜";
   background: #FFF;
   font-family: "simple-line-icons";
-  font-size: 24px;
+  font-size: 28px;
   color: #FFBB00;
   position: absolute;
   left: -7px;
@@ -1834,10 +1834,10 @@ body.dark footer.footer {
 }
 
 .timeline.exp .timeline-container::after {
-  content: "";
+  content: "🏢";
   background: #FFF;
   font-family: "simple-line-icons";
-  font-size: 24px;
+  font-size: 28px;
   color: #3DB7CC;
   position: absolute;
   left: -7px;
