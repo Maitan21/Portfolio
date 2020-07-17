@@ -1794,7 +1794,7 @@ body.dark footer.footer {
 }
 
 .timeline.license{
-  width: 124%;
+  width: 124% auto;
 }
 .timeline.license .timeline-container {
   padding-left: 50px;
